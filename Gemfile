@@ -21,6 +21,7 @@ gem 'haml-rails', '>= 0.3.4'
 group :development do
   gem 'better_errors'
   gem 'binding_of_caller', :platforms => [:mri_19, :mri_20, :rbx]
+  gem 'capistrano', '~> 2.15'
   gem 'quiet_assets'
   gem 'thin'
 end
