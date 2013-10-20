@@ -20,6 +20,7 @@
 /config/database.yml
 /coverage.data
 /coverage/
+/public/assets/
 /public/cache
 /public/stylesheets/compiled
 /public/system/*
