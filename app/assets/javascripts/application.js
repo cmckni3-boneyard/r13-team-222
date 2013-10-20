@@ -16,4 +16,5 @@
 //= require bootstrap
 //= require underscore/underscore
 //= require knockout.js/knockout
+//= require momentjs/moment
 //= require_tree .
