@@ -1,0 +1,7 @@
+{
+  "name": "rails-bootstrap",
+  "dependencies": {
+    "underscore": "~1.4.4",
+    "knockout.js": "~2.3.0"
+  }
+}

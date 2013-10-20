@@ -14,4 +14,6 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require bootstrap
+//= require underscore/underscore
+//= require knockout.js/knockout
 //= require_tree .
